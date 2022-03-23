@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+
+
+@media all and (max-width:1415px){
+  #wrap #main #section1 .container .wrap .content .img-bg {background:url(../img/forest2.jpg)no-repeat 50% 60%;background-size:100%;}
+  #wrap #main #section5 .container .wrap .column-container ul li h4 {font-size:13px;}
+  #wrap #main #section2 .container .content ul li .text-box .gap .text-gap p {font-size:13px;}
+  #wrap #header .container {width:95%;}
+  #wrap #footer .container ul {margin:30px;padding:0 130px 130px 130px;}
+  #wrap #footer .container ul li {padding:0 200px;}
+
+
+  }
+
+  @media all and (max-width:1182px){
+    #wrap #main #section1 .container {padding-top:70px;}
+    #wrap #main #section1 .container .wrap {flex-direction:column;top:0}
+    #wrap #main #section1 .container .wrap .title {width:100%;text-align:center;height:100%;}
+    #wrap #main #section1 .container .wrap .title h2 {padding-top:9%;}
+    #wrap #main #section1 .container .wrap .content {width:100%;height:100%;}
+    #wrap #main #section1 .container .wrap .content .img-bg {background:url(../img/forest2.jpg)no-repeat 50% 100%;background-size:100%;}
+    #wrap #main #section1 {background:url(../img/circle.png) no-repeat 30% 85%,url(../img/Square.png) no-repeat 60% 70%;background-size:7%;}
+    #wrap #main #section2 .container .content ul li .text-box .gap .text-gap p {font-size:16px;}
+    #wrap #main #section2 .container .content ul {display:flex;flex-direction:column;}
+    #wrap #main #section2 .container .content ul li {width:100%;height:100%;}
+    #wrap #main #section2 .container .content ul li iframe {width:100%;height:500px;}
+    #wrap #main #section2 .container .wrap .left span {font-size:15px;}
+    #wrap #header .container {width:95%;}
+    #wrap #footer .container ul {margin:30px;padding:0 50px 130px 50px;}
+    #wrap #footer .container ul li {padding:0 100px;}
+
+  }
+
+@media all and (max-width:991px){
+  #wrap #main #section1 .container .wrap .title h2 {padding-top:10%;}
+  #wrap #main #section1 {background:url(../img/circle.png) no-repeat 30% 80%,url(../img/Square.png) no-repeat 60% 65%;background-size:7%;}
+  #wrap #main #section2 .container .wrap .left span {font-size:15px;}
+  #wrap #main #section5 .container .wrap .column-container ul {display:block;}
+  #wrap #main #section5 .container .wrap .column-container ul li {width:70%;margin:0 auto 60px auto;}
+  #wrap #main #section5 .container .wrap .column-container ul li:last-child {margin:0 auto 0 auto;}
+  #wrap #main #section5 .container .wrap .column-container ul li h4 {font-size:15px;}
+  #wrap #main #section5 .container .wrap .column-container ul li button {margin-top:10px;}
+  #wrap #header .container {width:95%;}
+  #wrap #header .container ul {flex-direction:column;}
+  #wrap #header .container ul > li.nav-right {display:none;flex-direction:column;align-items:center;width:100%;background:rgba(240, 237, 230, .9);margin-top:25px;padding-top:10px;}
+  #wrap #header .container ul > li.nav-right.active {display:flex;}
+
+  #wrap #header .container ul .mobile-btn-box {display:block;margin-top:-38px;}
+  #wrap #header {height:70px;}
+  #wrap #header .container ul {margin:3px auto;}
+
+
+}
+@media all and (max-width:780px){
+  #wrap #main #section1 .container .wrap .title h2 {padding-top:15%;}
+  #wrap #main #section1 {background:url(../img/circle.png) no-repeat 25% 78%,url(../img/Square.png) no-repeat 60% 67%;background-size:7%;}
+  #wrap #main #section3 .container .wrap .text-box {flex-direction:column}
+  #wrap #main #section3 .container .wrap .text-box span {width:100%;text-align:center;border:0;margin-bottom:60px;}
+  #wrap #main #section3 .container .wrap .text-box span h2 {margin-bottom:10px;}
+  #wrap #main #section3 .container .wrap .text-box span p {margin-top:10px;border-bottom:1px solid  rgb(29, 29, 29, .2);width:100px;margin:0 auto;padding-bottom:40px;}
+  #wrap #main #section4 .container .wrap .menu {display:flex;flex-direction:column;}
+  #wrap #main #section4 .container .wrap .menu .menu-container {margin:40px auto 80px auto;}
+  #wrap #main #section4 .container .wrap .menu .menu-container ul {display:flex;flex-direction:column;}
+  #wrap #main #section4 .container .wrap .menu .menu-container ul li {padding-bottom:15px;}
+  #wrap #main #section5 .container .wrap .column-container ul li img {width:400px;}
+  #wrap #main #section5 .container .wrap .column-container ul li {width:100%;}
+  #wrap #footer .container ul {margin:30px;padding:0  0 130px 0;}
+  #wrap #footer .container ul li {padding:0 50px;}
+  #wrap #main #section1 .container .wrap .content .img-bg {background:url(../img/forest2.jpg)no-repeat 50% 100%;background-size:100%;}
+}
+  @media all and (max-width:560px){
+    #wrap #main #section1 .container .wrap .title {height:60%;}
+    #wrap #main #section1 .container .wrap .title h2 {padding-top:12%;}
+    #wrap #main #section1 .container .wrap .title h2 {font-size:50px;}
+    #wrap #main #section1 .container .wrap .title h4 {font-size:16px;font-weight:400;line-height:180%;color:#363636;margin-top:3%;font-family:Noto Sans KR;}
+    #wrap #main #section1 {background:url(../img/circle.png) no-repeat 30% 80%,url(../img/Square.png) no-repeat 60% 72%;background-size:7%;}
+    #wrap #main #section1 .container .wrap .content .img-bg {background:url(../img/forest2.jpg)no-repeat 50% 100%;background-size:100%;}
+    #wrap #main #section2 .container .content ul li .text-box .gap {flex-direction:column;}
+    #wrap #main #section2 .container .content ul li .text-box .gap .text-gap {width:100%;}
+    #wrap #main #section5 .container .wrap .column-container ul li img {width:300px;}
+    #wrap #main #section5 .container .wrap .column-container ul li {width:100%;}
+
+    #wrap #main #section2.addParallax .container .content ul li .text-box .gap .text-gap:nth-child(1)  {animation:sec2Text3 1s ease-in-out forwards;}
+    #wrap #main #section2.addParallax .container .content ul li .text-box .gap .text-gap:nth-child(2)  {animation:sec2Text3 1.5s ease-in-out forwards;}
+    #wrap #main #section2.addParallax .container .content ul li .text-box .gap .text-gap:nth-child(3)  {animation:sec2Text3 2s ease-in-out forwards;}
+    #wrap #main #section2.addParallax .container .content ul li .text-box .gap .text-gap:nth-child(4)  {animation:sec2Text3 2.5s ease-in-out forwards;}
+    @keyframes sec2Text3 {
+    0%   {transform:translateX(+1000px); opacity:0;}
+    100% {transform:translateX(      0); opacity:1;}
+    }
+  }
+@media all and (max-width:424px){
+  #wrap #main #section1 .container .wrap .title {height:51%;}
+  #wrap #main #section1 .container .wrap .title h2 {font-size:45px;padding-top:15%;}
+  #wrap #main #section1 .container .wrap .title h4 {font-size:14px}
+  #wrap #main #section1 {background:url(../img/circle.png) no-repeat 12% 87%,url(../img/Square.png) no-repeat 65% 75%;background-size:7%;}
+  #wrap #main #section5 .container .wrap .column-container ul li img {width:250px;}
+  #wrap #main #section5 .container .wrap .column-container ul li {width:100%;}
+  #wrap #footer .container .wrap h2 {font-size:60px;}
+  #wrap #footer .container ul li div input {font-size:13px;}
+  #wrap #footer .container ul li div input::placeholder {font-size:13px;padding:0;}
+  }
+
+  @media all and (max-width:320px){
+  #wrap #main #section1 .container .wrap .title {height:55%;}
+  #wrap #main #section1 .container .wrap .title h4 {font-size:12px}
+  #wrap #main #section1 .container .wrap .content .img-bg {background:url(../img/forest2.jpg)no-repeat 50% 100%;background-size:120%;}
+
+  }
