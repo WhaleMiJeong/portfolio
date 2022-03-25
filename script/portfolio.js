@@ -86,7 +86,6 @@
                     header.removeClass('sticky');
                 }
             });
-            
 
             $('.mobile-btn').on({
               click: function(){

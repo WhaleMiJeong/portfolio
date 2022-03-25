@@ -40,7 +40,7 @@
   #wrap #main #section5 .container .wrap .column-container ul li {width:70%;margin:0 auto 60px auto;}
   #wrap #main #section5 .container .wrap .column-container ul li:last-child {margin:0 auto 0 auto;}
   #wrap #main #section5 .container .wrap .column-container ul li h4 {font-size:15px;}
-  #wrap #main #section5 .container .wrap .column-container ul li button {margin-top:10px;}
+  #wrap #main #section5 .container .wrap .column-container ul li div {margin-top:10px;}
   #wrap #header .container {width:95%;}
   #wrap #header .container ul {flex-direction:column;}
   #wrap #header .container ul > li.nav-right {display:none;flex-direction:column;align-items:center;width:100%;background:rgba(240, 237, 230, .9);margin-top:25px;padding-top:10px;}
