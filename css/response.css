@@ -69,6 +69,8 @@
   #wrap #main #section4 .container .wrap .menu .menu-container ul li {padding-bottom:15px;}
   #wrap #main #section5 .container .wrap .column-container ul li img {width:400px;}
   #wrap #main #section5 .container .wrap .column-container ul li {width:100%;}
+  #wrap #main #section5 .container .icon-box .icon-wrap {display:block;}
+  #wrap #main #section5 .container .icon-box .icon-wrap .icon {margin:0 auto;padding-bottom:50px;}
   #wrap #footer .container ul {margin:30px;padding:0  0 130px 0;}
   #wrap #footer .container ul li {padding:0 50px;}
   #wrap #main #section1 .container .wrap .content .img-bg {background:url(../img/forest2.jpg)no-repeat 50% 100%;background-size:100%;}
@@ -84,7 +86,6 @@
     #wrap #main #section2 .container .content ul li .text-box .gap .text-gap {width:100%;}
     #wrap #main #section5 .container .wrap .column-container ul li img {width:300px;}
     #wrap #main #section5 .container .wrap .column-container ul li {width:100%;}
-    #wrap #main #section5 .container .icon-box .icon-wrap .icon a img {width:80%;}
 
 
     #wrap #main #section2.addParallax .container .content ul li .text-box .gap .text-gap:nth-child(1)  {animation:sec2Text3 1s ease-in-out forwards;}
