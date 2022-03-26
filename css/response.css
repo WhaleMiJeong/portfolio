@@ -80,7 +80,7 @@
     #wrap #main #section1 .container .wrap .title {height:60%;}
     #wrap #main #section1 .container .wrap .title h2 {padding-top:12%;}
     #wrap #main #section1 .container .wrap .title h2 {font-size:50px;}
-    #wrap #main #section1 .container .wrap .title h4 {font-size:16px;font-weight:400;line-height:180%;color:#363636;margin-top:3%;font-family:Noto Sans KR;}
+    #wrap #main #section1 .container .wrap .title h4 {font-size:15px;font-weight:400;line-height:180%;color:#363636;margin-top:3%;font-family:Noto Sans KR;}
     #wrap #main #section1 {background:url(../img/circle.png) no-repeat 30% 80%,url(../img/Square.png) no-repeat 60% 72%;background-size:7%;}
     #wrap #main #section1 .container .wrap .content .img-bg {background:url(../img/forest2.jpg)no-repeat 50% 100%;background-size:100%;}
     #wrap #main #section2 .container .content ul li .text-box .gap {flex-direction:column;}
@@ -97,13 +97,15 @@
     0%   {transform:translateX(+1000px); opacity:0;}
     100% {transform:translateX(      0); opacity:1;}
     }
+    @media all and (max-width:478px){
+    #wrap #main #section1 .container .wrap .title h4 {font-size:15px;padding:0 19%;}
 
+    }
 
   }
 @media all and (max-width:424px){
   #wrap #main #section1 .container .wrap .title {height:51%;}
   #wrap #main #section1 .container .wrap .title h2 {font-size:45px;padding-top:15%;}
-  #wrap #main #section1 .container .wrap .title h4 {font-size:14px}
   #wrap #main #section1 {background:url(../img/circle.png) no-repeat 12% 87%,url(../img/Square.png) no-repeat 65% 75%;background-size:7%;}
   #wrap #main #section5 .container .wrap .column-container ul li img {width:250px;}
   #wrap #main #section5 .container .wrap .column-container ul li {width:100%;}
